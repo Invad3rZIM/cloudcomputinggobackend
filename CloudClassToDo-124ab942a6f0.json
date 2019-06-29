@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cloudclasstodo",
+  "private_key_id": "124ab942a6f03964bfd4778e093cdad76a966ce5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQpR153wjkDdpV\ndSkt9c/sbpg5BJd0FmeizVcOfl35YjGSHLyVUiEUOyKhLWNmkAkno7IGoaHqhv8a\n2L4p42pYuM4HjDR/3fqQlPzSw/0lvuRZW+wiZA0stMSPmwrXZ/nQhcRbTvZ2VmWd\n0q7CvYVH1ZHdXuqWGHkverZdV1IWwtG5pR1RTrryk/2CfmrlIQdkL0TZ6PjRCqAZ\nMTW+2peva4o5gVh2EKWVqmL0M7g4RGOCQKaGkMnS/E9SFgkvJt1TwEBj63zaUO/Y\ntnhbNKn8w8PpreQOPvEEA0O+n5ZVDCiu2HVFRjG3HtAtOtSiHC4u38Zpv9BdNeJd\nAxOTYVilAgMBAAECggEAAwaxwYKzYnDesvDeGZuIhxr2uLngfUo7moi4O/NXJM+o\n10ARabQ0q7EiBw8iFI5Zed1txnVBNSY2NWi29RLCwQ1girqOlHMVhlPLdiHb/RrF\n/7lskXsNT2vjjboHj+kGutJa5aGwpwaNu3Sor9OJ+0fx/SfWxat2yxgvMGLohgUv\nWSMnFXObx3OlUKPQQwrfw/9fVV52Rni15nO1Usn1CfN+kNBVwhg/x8eEJvzojCN3\nexf34lY2k1Fr+SRW9qQgK/X98mhzNZdrJqG7+hvztDCXgI5h87HfUC4KW/gwyOTE\nVvOHeBI5R8Ns5aFeMItrfYCM9amI2vG57SWdhFzTUwKBgQDskywzTNDMk4rinsib\nrEDQiOxx2aViPW4ZFeIFZr+D1T0Ve8Ltsyuo4LCx+mvtMojoFpXznf7k8xeTmhHU\nOa9xZ4WiKBVvaWzNvq++cpTMZrYyFQJeFrQfcXTvQDbacb7B4O/MJXqy9YZdC0cc\nyvFqJ4ONd6OYnOC4wPgxI7xsWwKBgQDhxtpeb6KST9lfjzGE8C6p12iR2uDgwK6E\nRqPw4oLkefR2bHmzYyYTrSZlqhHkTlcxS8ktlkaltxyrMDG0KyRmujxZP+I+vtwz\n5zmrIhgHPi8/enA+1xs/Ybk4r6gV7uySkztp5XrS0BvAKJQsJqwTVcG2SZdkiMAt\nh2X19The/wKBgDvnjHK1Cc4zsiBuWpfox0TG1zCBDzrQGVfqzZ/Wg7pLPbt56kMs\ncmrB8pwusDOQ70/toCzfHhM1ZwvuIIOf08ggkZsdEUhz5qQ2m+PauckEXTBTV5Uh\npJytqxGGLh2kXcxUPARynR5Bw7M9ztUAop7hwJMK73cOimzeGDrBNM4vAoGAHQxo\nrB3Q3OJJJXJW/LOqTU/ZtGpk5IXl7j7oeOWr0ZmfSl1KizoGfCGa/xmSk71AmqcV\nizf6fvfASIY63uNuG4l6mkEN6uTDkCn/0XThgo0Npy0po+wpJU59dj2jcq764SDw\nU/+ifd0otOCDr+qJ2TL/aWSuhdDSaQkypSKXziECgYEA1LCoyY+JNy1GXkFzo5c0\nku/FYtRkgtPyuW7e09Lwh3NMdfvSvwRFX8+8ihj72Po1H3baNS1LWtLEv/q08fNy\nqYO5x76dO2nGw9T334o4pixni3GI4wrVatKBTrJ5YgeJByHC0mO6QzuidqtzYXfN\nSdNXaCPSQ818ipVGlqQ2oXI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kirkzimmer@cloudclasstodo.iam.gserviceaccount.com",
+  "client_id": "115091377154734920255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kirkzimmer%40cloudclasstodo.iam.gserviceaccount.com"
+}

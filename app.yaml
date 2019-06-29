@@ -1,0 +1,17 @@
+runtime: go
+api_version: go1
+env: flexible
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "CloudClassToDo-124ab942a6f0.json"
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+
+- url: /(.*\.(gif|png|jpg))$
+  static_files: static/\1
+  upload: static/.*\.(gif|png|jpg)$
+
+- url: /.*
+  script: _go_app
